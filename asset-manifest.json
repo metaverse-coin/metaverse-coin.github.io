@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df9877aa.chunk.css",
+    "main.js": "/static/js/main.51798dcb.chunk.js",
+    "main.js.map": "/static/js/main.51798dcb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.233e91ea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.233e91ea.js.map",
+    "static/js/2.a2b6d219.chunk.js": "/static/js/2.a2b6d219.chunk.js",
+    "static/js/2.a2b6d219.chunk.js.map": "/static/js/2.a2b6d219.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.df9877aa.chunk.css.map": "/static/css/main.df9877aa.chunk.css.map",
+    "static/js/2.a2b6d219.chunk.js.LICENSE.txt": "/static/js/2.a2b6d219.chunk.js.LICENSE.txt",
+    "static/media/antimatter.fbdaa216.png": "/static/media/antimatter.fbdaa216.png",
+    "static/media/antimatter_container.28314b23.png": "/static/media/antimatter_container.28314b23.png",
+    "static/media/index.css": "/static/media/background.f6fd2482.png",
+    "static/media/energy.2584e621.png": "/static/media/energy.2584e621.png",
+    "static/media/matter.751ab7f0.png": "/static/media/matter.751ab7f0.png",
+    "static/media/matter_container.dc34832f.png": "/static/media/matter_container.dc34832f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.233e91ea.js",
+    "static/js/2.a2b6d219.chunk.js",
+    "static/css/main.df9877aa.chunk.css",
+    "static/js/main.51798dcb.chunk.js"
+  ]
+}
