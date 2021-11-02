@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8df2281.chunk.css",
+    "main.css": "/static/css/main.5c1c5ee4.chunk.css",
     "main.js": "/static/js/main.f17bdec9.chunk.js",
     "main.js.map": "/static/js/main.f17bdec9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9426de8d.js",
@@ -12,7 +12,7 @@
     "static/js/3.7c0133a1.chunk.js.map": "/static/js/3.7c0133a1.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ed1298f3.chunk.css.map": "/static/css/2.ed1298f3.chunk.css.map",
-    "static/css/main.e8df2281.chunk.css.map": "/static/css/main.e8df2281.chunk.css.map",
+    "static/css/main.5c1c5ee4.chunk.css.map": "/static/css/main.5c1c5ee4.chunk.css.map",
     "static/js/2.f96f54aa.chunk.js.LICENSE.txt": "/static/js/2.f96f54aa.chunk.js.LICENSE.txt",
     "static/media/1.95289533.mp4": "/static/media/1.95289533.mp4",
     "static/media/1.967c821c.mp4": "/static/media/1.967c821c.mp4",
@@ -25,7 +25,7 @@
     "static/media/antimatter.691c7db3.jpg": "/static/media/antimatter.691c7db3.jpg",
     "static/media/antimatter.fbdaa216.png": "/static/media/antimatter.fbdaa216.png",
     "static/media/antimatter_card.d0d47ed0.png": "/static/media/antimatter_card.d0d47ed0.png",
-    "static/media/index.css": "/static/media/background.f6fd2482.png",
+    "static/media/index.css": "/static/media/background_pc.2d40755f.png",
     "static/media/energy.2584e621.png": "/static/media/energy.2584e621.png",
     "static/media/energy.ce574c76.jpg": "/static/media/energy.ce574c76.jpg",
     "static/media/energy_card.f615a545.png": "/static/media/energy_card.f615a545.png",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.9426de8d.js",
     "static/css/2.ed1298f3.chunk.css",
     "static/js/2.f96f54aa.chunk.js",
-    "static/css/main.e8df2281.chunk.css",
+    "static/css/main.5c1c5ee4.chunk.css",
     "static/js/main.f17bdec9.chunk.js"
   ]
 }
